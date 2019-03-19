@@ -19,17 +19,17 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Administrative assistant"
-  company = "The Australasian Society of Behavioural Health and Medicine"
+  title = "Lab manager"
+  company = "Cognitive Neuroscience Unit"
   company_url = ""
   location = ""
-  date_start = "2018-01-01"
+  date_start = "2017-06-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Maintainence of membership database
-  * Communication with members
+  * Things
+  * Being awesome
   """
 
 [[experience]]
