@@ -35,4 +35,8 @@ weight = 5
 
 # Biography
 
-Sou is a PhD candidate at the cognitive neuroscience unit (CNU), Deakin University. Sou also manages the CNU lab and is a part-time associate lecturer in psychology.
+Sou Bekkali is a PhD candidate at the cognitive neuroscience unit (CNU), School of Psychology, Deakin University.
+Sou's research examines what parts of the brain are important for empathy, and how the 'construct' of empathy can be understood and measured. Currently, Sou's PhD is examining the mirror neuron system (a system of brain regions that contain specialized brain cells that fire when we execute action and also when we observe someone else executing that same action, as though we are 'putting ourselves in the shoes of another' at the brain level) and if this system plays a role in our ability to empathise and understand other people. 
+Sou is also the lab manager of the CNU, which consists of 50 scientists and doctoral students who do awesome neuroscience research. Sou is also an associate lecturer in psychology, and has taught into a number of undergraduate subjects.
+
+Outside of work, Sou enjoys reading books, cooking, eating fried chicken, surviving F45 training, and spending too much time on Netflix.
