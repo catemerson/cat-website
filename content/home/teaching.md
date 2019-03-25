@@ -25,8 +25,10 @@ I have taught in the following units at Deakin University
 - HPS395 Cognitive Neuroscience
 
 I have unit chaired the following subject at Deakin University
+
 - HPS395 Cognitive Neuroscience
 
 I have taught in the following units at RMIT University
+
 - Philosophy of Science and Research Methodology/Statistics in Psychology
 - Psychological Assessment and Individual Differences 
