@@ -29,4 +29,4 @@ I have unit chaired the following subject at Deakin University
 
 I have taught in the following units at RMIT University
 - Philosophy of Science and Research Methodology/Statistics in Psychology
-- Psychological Assessment and Individual Differences
+- Psychological Assessment and Individual Differences 
