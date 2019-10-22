@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Soukayna (Sou) Bekkali"
+title = "Catherine Emerson"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,7 +51,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Soukayna (Sou) Bekkali"
+  name = "Catherine Emerson"
   role = "Higher Degree by Research Student"
 
   # Organizations/Affiliations.
@@ -62,10 +62,10 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "soukayna.bekkali@deakin.edu.au"
+  email = "caemerso@deakin.edu.au"
   address = "221 Burwood Highway, Burwood, Melbourne, VIC, AUSTRALIA"
   office_hours = ""
-  phone = "+61 392445250"
+  phone = ""
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -114,7 +114,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "_catemerson"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -226,7 +226,7 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format = 2
 
     # Talk list format.
     #   0 = Simple
@@ -260,7 +260,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/SoukaynaBekkali"
+    link = "https://twitter.com/_catemerson"
 
  #[[params.social]]
     #icon = "google-scholar"
@@ -270,7 +270,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/soubekkali"
+    link = "https://github.com/catemerson"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
