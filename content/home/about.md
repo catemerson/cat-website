@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "Doctor of Philosophy"
   institution = "Deakin University"
-  year = Current
+  year = 2021
 
 [[education.courses]]
   course = "Graduate Diploma of Psychology"
