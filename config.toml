@@ -300,8 +300,13 @@ enableGitInfo = false
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 4
-
+  weight = 3
+  
+[[menu.main]]
+  name = "Other Experience"
+  url = "#other_experience"
+  weight = 4  
+  
 [[menu.main]]
   name = "Contact"
   url = "#contact"
