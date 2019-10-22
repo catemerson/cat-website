@@ -10,33 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Neuroscience",
+    "Psychogastroenterology",
     "Psychology",
-    "Neurophysiology"
+    "Health Psychology"
+    "Inflammatory Bowel Disease"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Doctor of Philosophy"
   institution = "Deakin University"
-  year = 2019
+  year = Current
 
 [[education.courses]]
   course = "Graduate Diploma of Psychology"
   institution = "Deakin University"
-  year = 2014
+  year = 2017
 
 [[education.courses]]
-  course = "Bachelor of Applied Science (Psychology)"
-  institution = "RMIT University"
-  year = 2013
+  course = "Bachelor of Psychological Science (With Distinction)"
+  institution = "Deakin University"
+  year = 2017
  
 +++
 
 # Biography
 
-Sou Bekkali is a PhD candidate at the cognitive neuroscience unit (CNU), School of Psychology, Deakin University.
-Sou's research examines what parts of the brain are important for empathy, and how the 'construct' of empathy can be understood and measured. Currently, Sou's PhD is examining the mirror neuron system (a system of brain regions that contain specialized brain cells that fire when we execute action and also when we observe someone else executing that same action, as though we are 'putting ourselves in the shoes of another' at the brain level) and if this system plays a role in our ability to empathise and understand other people. 
-Sou is also the lab manager of the CNU, which consists of 50 scientists and doctoral students who do awesome neuroscience research. Sou is also an associate lecturer in psychology, and has taught into a number of undergraduate subjects.
+Catherine Emerson is a PhD candidate in the School of Psychology, Deakin University.
+Catherine's research aims to determine the optimal psychological intervention to manage fatigue in patients with inflammatory bowel disease (IBD). 
 
-Outside of work, Sou enjoys reading books, cooking, eating fried chicken, surviving F45 training, and spending too much time on Netflix.
