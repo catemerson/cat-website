@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Psychogastroenterology",
     "Psychology",
-    "Health Psychology"
+    "Health Psychology",
     "Inflammatory Bowel Disease"
   ]
 
