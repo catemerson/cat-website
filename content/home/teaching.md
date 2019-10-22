@@ -17,18 +17,8 @@ weight = 60
 
 I have taught in the following units at Deakin University
 
-- HPS111 Psychology A: Fundamentals of Human Behaviour
-- HPS201 Research Methods in Psychology (2nd year)
-- HPS203 Cognitive Psychology ("The Human Mind")
-- HPS301 Research Methods in Psychology (3rd year)
-- HPS310 Brain, Biology, & Behaviour (Behavioural Neuroscience)
-- HPS395 Cognitive Neuroscience
-
-I have unit chaired the following subject at Deakin University
-
-- HPS395 Cognitive Neuroscience
-
-I have taught in the following units at RMIT University
-
-- Philosophy of Science and Research Methodology/Statistics in Psychology
-- Psychological Assessment and Individual Differences 
+-	HPS111 Psychology A: Fundamentals of Human Behaviour
+-	HPS104 Foundations of Psychological Science
+-	HPS226 Applied Health Psychology
+-	HPS301 Research Methods in Psychology B
+-	HPS121 Psychology B: Individual and Social Development 
